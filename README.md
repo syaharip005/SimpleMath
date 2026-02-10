@@ -1,4 +1,3 @@
-# Simple Math CLI
 
 A tiny command-line math utility written in Python that supports four operations:
 - add
